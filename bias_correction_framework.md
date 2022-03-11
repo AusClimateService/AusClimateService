@@ -1,5 +1,5 @@
 # Bias Correction Framework
-Bias Correction Methods and Considerations for ACS Downscaled Datasets.
+A framework of bias correction methods and considerations for downscaled datasets in ACS.
 
 ### Working Group on Bias Correction for ACS
 **Lead:** Justin Peter (TBC)  
