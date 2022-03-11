@@ -1,4 +1,4 @@
-# Austrailian Climate Service
+# Australian Climate Service
 
 This repository contains ACS overview and technical notes.
 
