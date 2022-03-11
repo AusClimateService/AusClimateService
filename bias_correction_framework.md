@@ -1,7 +1,8 @@
-# Bias Correction Methods and Considerations for ACS Downscaled Data
+# Bias Correction Framework
+Bias Correction Methods and Considerations for ACS Downscaled Datasets.
 
-## Working Group on Bias Correction for ACS
-**Lead:** Justin Peter?  
+### Working Group on Bias Correction for ACS
+**Lead:** Justin Peter (TBC)  
 **Members:**  
 Ulrike Bende-Michl  
 Chloe Mackallah  
