@@ -31,4 +31,4 @@ A controlled vocabulary of defined terms for use in ACS.
 
 #### Data transformation
 
-### Data hierarchy / levels
+### Data hierarchy
