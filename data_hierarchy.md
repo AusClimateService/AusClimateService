@@ -22,7 +22,7 @@ This defines data that has undergone 'CMORisation' or similar data transformatio
 
 - Parameters are not significantly tranformed, with only cleaning / masking applied where needed.
 - Must contain publication-level metadata.
-- Follows (ACS Data Standards)[https://github.com/AusClimateService/data-code-group/blob/main/data_standards.md] and ACS Data Request (in progress).
+- Follows [ACS Data Standards](https://github.com/AusClimateService/data-code-group/blob/main/data_standards.md) and ACS Data Request (in progress).
 - One file per parameter across multiple valid times.
 - netCDF format.
 - To be shared through ia39 on Gadi (and published where appropriate).
@@ -32,8 +32,8 @@ This defines data that has undergone 'CMORisation' or similar data transformatio
 
 - Parameters have been significantly tranformed such as averaging, unit conversion, etc.
 - Must contain publication-level metadata.
-- Follows (ACS Data Standards)[https://github.com/AusClimateService/data-code-group/blob/main/data_standards.md] and ACS Data Request (in progress).
-- To be prescribed by the (ACS Data and Code Group)[https://github.com/AusClimateService/data-code-group].
+- Follows [ACS Data Standards](https://github.com/AusClimateService/data-code-group/blob/main/data_standards.md) and ACS Data Request (in progress).
+- To be prescribed by the [ACS Data and Code Group](https://github.com/AusClimateService/data-code-group).
 - One file per parameter across multiple valid times.
 - netCDF format.
 - To be shared through ia39 on Gadi (and published where appropriate).
@@ -42,7 +42,7 @@ This defines data that has undergone 'CMORisation' or similar data transformatio
 This defines data that has been bias corrected (according to the [Bias Correction Framework](bias_correction_framework.md)).
 
 - Must contain publication-level metadata.  
-- Follows (ACS Data Standards)[https://github.com/AusClimateService/data-code-group/blob/main/data_standards.md] and ACS Data Request (in progress).  
+- Follows [ACS Data Standards](https://github.com/AusClimateService/data-code-group/blob/main/data_standards.md) and ACS Data Request (in progress).  
 - To be prescribed by the Working Group on Bias Correction for ACS.  
 - One file per parameter across multiple valid times.  
 - netCDF format.  
@@ -52,7 +52,7 @@ This defines data that has been bias corrected (according to the [Bias Correctio
 This defines derived evaluation metrics, including added value statistics.
 
 - Must contain publication-level metadata.
-- Follows (ACS Data Standards)[https://github.com/AusClimateService/data-code-group/blob/main/data_standards.md] and ACS Evaluation Metrics Request (in progress).
+- Follows [ACS Data Standards](https://github.com/AusClimateService/data-code-group/blob/main/data_standards.md) and ACS Evaluation Metrics Request (in progress).
 - To be prescribed by the Working Group on Evaluation for ACS.
 - netCDF or csv format.
 - To be shared through ia39 on Gadi (and published where appropriate).
@@ -61,7 +61,7 @@ This defines derived evaluation metrics, including added value statistics.
 This defines derived hazard indicators, such as extreme value statistics (AEP, EVA), climatologies, multi-model ensemble statistics or products, etc.
 
 - Must contain publication-level metadata.
-- Follows (ACS Data Standards)[https://github.com/AusClimateService/data-code-group/blob/main/data_standards.md] (in progress).
+- Follows [ACS Data Standards](https://github.com/AusClimateService/data-code-group/blob/main/data_standards.md) (in progress).
 - To be prescribed by WP4.
 - netCDF or csv format.
 - To be shared through ia39 on Gadi (and published where appropriate).
