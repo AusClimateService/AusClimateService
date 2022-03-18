@@ -7,7 +7,7 @@ Ulrike Bende-Michl
 Chloe Mackallah  
 Raktima Dey  
 Justin Peter  
-Emma Howard
+Emma Howard  
 ...
 
 ---
