@@ -1,12 +1,13 @@
 # Bias Correction Framework
 A framework of bias correction methods and considerations for downscaled datasets in ACS.
 
-### Working Group on Bias Correction for ACS
-**Lead:** Justin Peter (TBC)  
+### Working Group on Bias Correction for ACS 
 **Members:**  
 Ulrike Bende-Michl  
 Chloe Mackallah  
 Raktima Dey  
+Justin Peter
+Emma Howard
 ...
 
 ---
