@@ -6,7 +6,7 @@ A framework of bias correction methods and considerations for downscaled dataset
 Ulrike Bende-Michl  
 Chloe Mackallah  
 Raktima Dey  
-Justin Peter
+Justin Peter  
 Emma Howard
 ...
 
