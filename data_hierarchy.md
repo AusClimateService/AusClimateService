@@ -48,7 +48,7 @@ This defines data that has been bias corrected (according to the [Bias Correctio
 - netCDF format.  
 - To be shared through ia39 on Gadi (and published where appropriate).  
 
-### Level 3?
+### Level 3a
 This defines derived evaluation metrics, including added value statistics.
 
 - Must contain publication-level metadata.
@@ -56,8 +56,9 @@ This defines derived evaluation metrics, including added value statistics.
 - To be prescribed by the Working Group on Evaluation for ACS.
 - netCDF or csv format.
 - To be shared through ia39 on Gadi (and published where appropriate).
+- Primarily used for model verification and evaluation.
 
-### Level 4?
+### Level 3b
 This defines derived hazard indicators, such as extreme value statistics (AEP, EVA), climatologies, multi-model ensemble statistics or products, etc.
 
 - Must contain publication-level metadata.
@@ -65,3 +66,4 @@ This defines derived hazard indicators, such as extreme value statistics (AEP, E
 - To be prescribed by WP4.
 - netCDF or csv format.
 - To be shared through ia39 on Gadi (and published where appropriate).
+- Primarily used for customer-focussed communications and storyline development.
