@@ -49,7 +49,7 @@ This defines data that has been bias corrected (according to the [Bias Correctio
 - To be shared through ia39 on Gadi (and published where appropriate).  
 
 ### Level 3a
-This defines derived evaluation metrics, including added value statistics.
+This defines derived verification metrics, including added value statistics.
 
 - Must contain publication-level metadata.
 - Follows [ACS Data Standards](https://github.com/AusClimateService/data-code-group/blob/main/data_standards.md) and ACS Evaluation Metrics Request (in progress).
@@ -59,7 +59,7 @@ This defines derived evaluation metrics, including added value statistics.
 - Primarily used for model verification and evaluation.
 
 ### Level 3b
-This defines derived hazard indicators, such as extreme value statistics (AEP, EVA), climatologies, multi-model ensemble statistics or products, etc.
+This defines derived indiced, such as extreme value statistics (AEP, EVA), hazard metrics, multi-model ensemble statistics or products, etc.
 
 - Must contain publication-level metadata.
 - Follows [ACS Data Standards](https://github.com/AusClimateService/data-code-group/blob/main/data_standards.md) (in progress).
