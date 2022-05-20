@@ -59,7 +59,7 @@ This defines derived verification metrics, including added value statistics.
 - Primarily used for model verification and evaluation.
 
 ### Level 3b
-This defines derived indiced, such as extreme value statistics (AEP, EVA), hazard metrics, multi-model ensemble statistics or products, etc.
+This defines derived indices, such as extreme value statistics (AEP, EVA), hazard metrics, multi-model ensemble statistics or products, etc.
 
 - Must contain publication-level metadata.
 - Follows [ACS Data Standards](https://github.com/AusClimateService/data-code-group/blob/main/data_standards.md) (in progress).
